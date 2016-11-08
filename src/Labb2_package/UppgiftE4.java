@@ -1,5 +1,7 @@
 package Labb2_package;
 
+import Labb2_package.knapppaket.MyButtonE32;
+
 import javax.swing.*;
 
 /**

@@ -1,4 +1,6 @@
 package Labb2_package;
+import Labb2_package.knapppaket.MyButton;
+
 import java.awt.event.*;
 import javax.swing.*;
 
